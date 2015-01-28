@@ -1,2 +1,2 @@
 # CrackingCodingInterview
-about the exercise of the this books
+about the exercise of this books
